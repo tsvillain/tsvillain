@@ -1,0 +1,7 @@
+<h1 align="center">Hello World 👋 🌏, I'm Tekeshwar Singh</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tsvillain" alt="tsvillain" /> </p>
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tsvillain&show_icons=true" alt="tsvillain" /> </p>
+
+
