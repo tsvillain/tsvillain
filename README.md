@@ -1,7 +1,6 @@
 ### Hi there, I'm Tekeshwar Singh - aka tsvillain 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/tsvillain?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftsvillain&screen_name=tsvillain)
-[![Instagram Follow](https://img.shields.io/instagram/follow/instagram?color=1DA1F2&logo=instagram&style=for-the-badge)](https://instagram.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Finstagram&screen_name=instagram)
 
 ## I'm a Student, Friend and Developer!! (Not a Boyfriend Yet 😐)
 
@@ -43,7 +42,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="tsvillain's GitHub Stats" src="https://github-readme-stats.tsvillain.vercel.app/api?username=tsvillain&show_icons=true&hide_border=true" />
+  <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsvillain&layout=compact&hide=html" alt="tsvillain" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=tsvillain&show_icons=true" alt="tsvillain" /></p>
 
 </details>
 
