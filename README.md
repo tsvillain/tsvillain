@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/tsvillain?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftsvillain&screen_name=tsvillain)
 
-## I'm a Student, Friend and Developer!! (Not a Boyfriend Yet 😐)
+## I'm a Student, Friend and Developer!!
 
 - 🌱 I’m currently learning everything 😅
 - 👯 I’m looking to collaborate with other content developers
