@@ -5,9 +5,9 @@
 ## I'm a Student, Friend and Developer!!
 
 - 🌱 I’m currently learning everything 😅
-- 👯 I’m looking to collaborate with other content developers
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love photography and Video Games
+- ⚡ Fun fact: I love photography and Video Games (Nowadays I'm playing Valorant RoitID: tsvillain#318)
 
 ### Connect with me:
 
