@@ -1,64 +1,80 @@
 <!--
-**tsvillain/tsvillain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tsvillain/tsvillain** is a ✨ _special_ ✨ repository because its `README.md` becomes part of your GitHub profile.
 
-Here are some ideas to get you started:
+You can keep or remove the commented section below as needed:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on …
+- 🌱 I’m currently learning …
+- 👯 I’m looking to collaborate on …
+- 🤔 I’m looking for help with …
+- 💬 Ask me about …
+- 📫 How to reach me: …
+- 😄 Pronouns: …
+- ⚡ Fun fact: …
 -->
-<img src="https://komarev.com/ghpvc/?username=tsvillain" alt="tsvillain" />
 
-#### 👋 Hi there! 
-### I'm Tekeshwar Singh, 
-a Senior Software Engineer with a passion for creating innovative and user-friendly hybrid applications using Flutter. With a BTech in Computer Science and a solid background in backend development, I strive to deliver cutting-edge solutions that drive business success and user satisfaction.
+<img src="https://komarev.com/ghpvc/?username=tsvillain" alt="tsvillain GitHub profile views" />
 
-## 🚀 My Expertise:
-### ✨ Hybrid App Development: 
-I specialize in building cross-platform applications using Flutter, a powerful framework that enables seamless user experiences across iOS and Android devices. My in-depth knowledge of Dart, JavaScript, and TypeScript allows me to craft efficient and performant code, ensuring smooth app performance and quick development cycles.
+---
 
-### 💻 Backend Development: 
-I have hands-on experience in designing and implementing backend systems. My preferred tech stack includes MongoDB and NodeJS, which allows me to build robust and scalable server-side solutions to support the functionality of the applications I create.
+### 👋 Hello, I’m **Tekeshwar Singh**
 
-### 🔗 Blockchain App Development: 
-I have a keen interest in the potential of blockchain technology and have dabbled in developing blockchain applications. While my experience is still growing in this area, I possess a solid foundation and a willingness to explore and contribute to this exciting field.
+Senior Software Engineer crafting scalable full-stack applications across mobile and web. Over **5+ years of experience**, I specialize in:
 
-### 🛠️ Versatility in Programming Languages: 
-My proficiency extends beyond Flutter and backend development. I'm well-versed in Java, C++, and Solidity, giving me the flexibility to adapt to various project requirements and collaborate effectively with multidisciplinary teams.
+- **Mobile & Hybrid Apps (Flutter, Riverpod)**  
+- **Backend & API systems (Node.js, Express, Serverless)**  
+- **Cloud & DevOps (AWS, GCP, Firebase, CI/CD)**  
+- **Databases & Integrations (MongoDB, PostgreSQL, Stripe, OpenAI APIs)**  
 
-### 🏆 Collaborative Problem-Solver: 
-Throughout my career, I have thrived in dynamic and collaborative environments. I'm always eager to take on challenges, brainstorm ideas, and work together to find the most effective solutions. I value open communication, constructive feedback, and continuous learning, as these are the cornerstones of personal and professional growth.
+I’m passionate about bridging front-end and back-end, architecting systems that scale, and solving real-world problems through code.
 
-### 🌱 Lifelong Learner: 
-Technology evolves rapidly, and I am committed to staying at the forefront of the latest trends and best practices. Whether it's attending workshops, participating in online courses, or engaging in hackathons, I embrace every opportunity to expand my knowledge and skillset.
+---
 
-## 🤝 Let's Connect:
-I am enthusiastic about networking and believe in the power of building meaningful professional relationships. If you're interested in discussing potential collaborations, exchanging industry insights, or simply connecting within the tech community, feel free to reach out to me.
+## 🧰 Skills & Technologies
 
-## 📈 Stats:
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tsvillain&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tsvillain&hide_border=true&theme=radical" />
-</p>
+| Domain | Technologies |
+|---|---|
+| Languages | JavaScript, TypeScript, Dart, SQL |
+| Frontend / Mobile | Flutter, React, Next.js, Riverpod |
+| Backend / API | Node.js, Express.js, Serverless Functions |
+| Cloud / DevOps | AWS, GCP, Firebase, Docker, GitHub Actions, CodeMagic, CI/CD |
+| Databases & APIs | MongoDB, PostgreSQL, Stripe, OpenAI API |
+| Tools | Git, CLI automation, Testing |
 
+---
 
-### Get in touch
+## 🚀 What I’m Passionate About
 
-[<img align="left" alt="tsvillain | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="tsvillain | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="tsvillain | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="tsvillain | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+- Building **scalable systems & architectures** for high traffic  
+- Exploring **AI/ML & real-time integrations** in product contexts  
+- Mentoring, knowledge-sharing, and contributing to open-source  
+- Early adoption of evolving tech in Flutter, Node.js, Cloud, etc  
+
+---
+
+## 📫 Let’s Connect
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
+[<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]  
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
 
 </br>
 
-[instagram]: https://instagram.com/tsvillain
-[linkedin]: https://linkedin.com/in/tsvillain
-[telegram]: https://t.me/tsvillain
-[twitter]: https://twitter.com/tsvillain
+[instagram]: https://instagram.com/tsvillain  
+[linkedin]: https://linkedin.com/in/tsvillain  
+[telegram]: https://t.me/tsvillain  
+[twitter]: https://twitter.com/tsvillain  
 
-#### Thank you for visiting my profile.
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tsvillain&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tsvillain&hide_border=true&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+Thanks for stopping by — let’s build something awesome together!  
