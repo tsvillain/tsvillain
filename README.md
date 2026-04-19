@@ -10,7 +10,7 @@
    ╚═╝   ╚══════╝  ╚═══╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
 ```
 
-**`Senior Software Engineer`** · **`Open Source Builder`** · **`Gujarat, India`**
+**`Senior Software Engineer`** · **`Open Source Builder`** · **`India`**
 
 [![Portfolio](https://img.shields.io/badge/tsvillain.com-000?style=for-the-badge&logo=safari&logoColor=white)](https://tsvillain.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://tsvillain.medium.com)
