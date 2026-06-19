@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ```
@@ -15,6 +14,7 @@
 [![Portfolio](https://img.shields.io/badge/tsvillain.com-000?style=for-the-badge&logo=safari&logoColor=white)](https://tsvillain.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://tsvillain.medium.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tsvillain)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tsvillain)
 
 </div>
 
@@ -22,14 +22,33 @@
 
 ```js
 const tsvillain = {
-    code:      ["TypeScript", "Dart", "JavaScript", "Python"],
-    backend:   ["Node.js", "Express", "NestJS"],
-    frontend:  ["Flutter", "Next.js", "React"],
-    databases: ["PostgreSQL", "MongoDB", "Redis"],
-    devOps:    ["Docker", "GitHub Actions", "Linux"],
-    current:   "Building PGLens — a better way to explore Postgres locally"
+  name:      "Tekeshwar Singh",
+  focus:     ["Backend Systems", "Mobile (Flutter)", "AI Pipelines"],
+  code:      ["TypeScript", "Dart", "JavaScript", "Python"],
+  backend:   ["Node.js", "Express", "NestJS"],
+  frontend:  ["Flutter", "Next.js", "React"],
+  databases: ["PostgreSQL", "MongoDB", "Redis"],
+  cloud:     ["AWS", "GCP", "Firebase"],
+  devOps:    ["Docker", "GitHub Actions", "Linux"],
+  current:   "Building Flutter apps @ xFarm — farm management for 600k+ farms across 14 countries",
 };
 ```
+
+---
+
+### `>_ Experience`
+
+**[xFarm Technologies](https://www.xfarm.ag/en)** — Senior Software Engineer *(Apr 2026 – Present · Italy, Remote)*
+Mobile team engineer on a comprehensive farm management platform serving 600,000+ farms across 14 countries. Working with Flutter, Dart, MobX, Explicit Architecture, and Melos in a Spotify-model team structure.
+
+**[Breakthrough](https://breakthroughapps.io/)** — Senior Software Engineer *(Jul 2023 – Apr 2026 · New York, Remote)*
+Owned the backend platform powering a white-label wellness app used by 130+ partner creators and 60+ web paywall deployments across Firebase, AWS, and GCP. Built AI media indexing with Gemini-reranked vector search, a multi-tenant Stripe billing backend on AWS ECS with SQS FIFO webhook processing, an AI Smart Search pipeline using ElevenLabs + Vertex AI, and a Next.js paywall serving 60+ brands from one codebase.
+
+**[PixelApps](https://pixelapps.io/)** — Senior Flutter Developer *(May 2021 – Jul 2023 · Ahmedabad, Hybrid)*
+Led mobile development and established Clean Architecture standards with Flutter and Riverpod. Built the MVP and core API for WellTested.ai, reduced time-to-market by 75%, and mentored junior developers on mobile best practices.
+
+**[Pingolearn](https://www.lingopanda.app/)** — Expert Flutter Developer, Part-Time *(Feb 2022 – Aug 2022 · Remote)*
+Developed core features for an AI-powered language app with 700,000+ users — in-app subscriptions via RevenueCat and a grammar detection engine built on OpenAI's LLM.
 
 ---
 
@@ -49,72 +68,19 @@ const tsvillain = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
 </div>
 
 ---
 
-### `>_ Featured Project`
+### `>_ Open Source`
 
-<table>
-<tr>
-<td width="100%">
+**[pglens](https://www.pglens.org/)** — A simple, powerful PostgreSQL database viewer. Manage connections, explore data, and visualize schemas. One-liner install, runs as a lightweight daemon with multi-tab support.
 
-<h3 align="center">
-  <a href="https://pglens.org">
-    🔍 PGLens
-  </a>
-</h3>
+**[Wallbay](https://github.com/tsvillain/Wallbay)** — Flutter wallpaper app with 114+ GitHub stars, available on the Google Play Store.
 
-<p align="center">
-  <strong>A simple, powerful PostgreSQL database viewer with a modern web interface.</strong>
-</p>
-
-<p align="center">
-  Browse tables · View data · Explore schemas · Spotlight search (⌘K)
-  <br/>
-  One-liner install · Runs as a lightweight daemon · Multi-tab support
-</p>
-
-<p align="center">
-  <a href="https://github.com/tsvillain/pglens">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://pglens.org">
-    <img src="https://img.shields.io/badge/Website-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </a>
-</p>
-
-```bash
-curl -fsSL https://pglens.org/install.sh | bash
-```
-
-</td>
-</tr>
-</table>
-
----
-
-### `>_ Connect`
-
-<div align="center">
-
-```
-  ┌───────────────────────────────────────────────────────┐
-  │                                                       │
-  │   💼  tsvillain.com        — portfolio & projects     │
-  │   ✍️  tsvillain.medium.com — technical writing        │
-  │   🐙  github.com/tsvillain — open source work         │
-  │                                                       │
-  └───────────────────────────────────────────────────────┘
-```
-
-**If you find [PGLens](https://github.com/tsvillain/pglens) useful, consider giving it a ⭐**
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tsvillain&style=flat-square&color=4169E1" alt="Profile views" />
-</div>
+**[MinifyURL](https://github.com/tsvillain/minifyurl)** — Fast URL shortening backend with a custom farmhash-based algorithm.
