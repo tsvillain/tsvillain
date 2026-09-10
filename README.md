@@ -1,22 +1,15 @@
-<!-- HEADER BANNER -->
-<a href="https://tsvillain.com">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Tam%20%C2%B7%20tsvillain&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=I%20know%20a%20byte%20about%20tech%2C%20automobile%20%26%20finance&descAlignY=60&descSize=18&animation=fadeIn" alt="header" />
-</a>
-
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION HERO -->
 <div align="center">
   <a href="https://x.com/tsvillain">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=720&lines=Senior+Software+Engineer+%C2%B7+India+%F0%9F%87%AE%F0%9F%87%B3;Getting+paid+to+help+farmers+manage+farms+at+scale+%F0%9F%8C%BE;Backend+%E2%9A%A1+Mobile+%F0%9F%93%B1+AI+Pipelines+%F0%9F%A7%A0;It's+always+easier+to+hack+a+system+you+wrote+yourself." alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2600&pause=800&color=36BCF7&center=true&vCenter=true&width=760&height=70&lines=Hey%2C+I'm+Tam+%F0%9F%91%8B;Senior+Software+Engineer+%C2%B7+India+%F0%9F%87%AE%F0%9F%87%B3;Helping+farmers+manage+farms+at+scale+%F0%9F%8C%BE;Backend+%E2%9A%A1+Mobile+%F0%9F%93%B1+AI+Pipelines+%F0%9F%A7%A0;It's+easier+to+hack+a+system+you+wrote+yourself." alt="typing" />
   </a>
 </div>
 
-<!-- SOCIAL BADGES -->
 <div align="center">
   <a href="https://tsvillain.com"><img src="https://img.shields.io/badge/Website-tsvillain.com-0f2027?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://x.com/tsvillain"><img src="https://img.shields.io/badge/%F0%9D%95%8F-%40tsvillain-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://linkedin.com/in/tsvillain"><img src="https://img.shields.io/badge/LinkedIn-tsvillain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://tsvillain.medium.com"><img src="https://img.shields.io/badge/Medium-tsvillain-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=tsvillain&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" />
 </div>
 
 <br/>
@@ -71,35 +64,14 @@ const tam = {
 ## 📊 Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tsvillain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tsvillain&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tsvillain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tsvillain&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsvillain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsvillain&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tsvillain&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <em>🧠 Currently breaking down 243 applied-AI terms for backend devs — one byte at a time.</em>
 </div>
-
-<!-- CONTRIBUTION SNAKE -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsvillain&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
-## 🧠 One byte at a time
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <em>Currently breaking down 243 applied-AI terms for backend devs — one byte at a time.</em>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
