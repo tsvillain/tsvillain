@@ -1,15 +1,25 @@
-<h1 align="center">Hey, I'm Tam 👋</h1>
-<h3 align="center">I know a byte about tech, automobile & finance 🏎️💸</h3>
-<p align="center">Senior Software Engineer · India 🇮🇳 · Getting paid to help farmers manage farms at scale 🌾</p>
+<!-- HEADER BANNER -->
+<a href="https://tsvillain.com">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Tam%20%C2%B7%20tsvillain&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=I%20know%20a%20byte%20about%20tech%2C%20automobile%20%26%20finance&descAlignY=60&descSize=18&animation=fadeIn" alt="header" />
+</a>
 
-<p align="center">
-  <a href="https://tsvillain.com">🌐 tsvillain.com</a> ·
-  <a href="https://x.com/tsvillain">𝕏 @tsvillain</a> ·
-  <a href="https://linkedin.com/in/tsvillain">💼 LinkedIn</a> ·
-  <a href="https://tsvillain.medium.com">✍️ Medium</a>
-</p>
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <a href="https://x.com/tsvillain">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=720&lines=Senior+Software+Engineer+%C2%B7+India+%F0%9F%87%AE%F0%9F%87%B3;Getting+paid+to+help+farmers+manage+farms+at+scale+%F0%9F%8C%BE;Backend+%E2%9A%A1+Mobile+%F0%9F%93%B1+AI+Pipelines+%F0%9F%A7%A0;It's+always+easier+to+hack+a+system+you+wrote+yourself." alt="typing" />
+  </a>
+</div>
 
----
+<!-- SOCIAL BADGES -->
+<div align="center">
+  <a href="https://tsvillain.com"><img src="https://img.shields.io/badge/Website-tsvillain.com-0f2027?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://x.com/tsvillain"><img src="https://img.shields.io/badge/%F0%9D%95%8F-%40tsvillain-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tsvillain"><img src="https://img.shields.io/badge/LinkedIn-tsvillain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://tsvillain.medium.com"><img src="https://img.shields.io/badge/Medium-tsvillain-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=tsvillain&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" />
+</div>
+
+<br/>
 
 ```javascript
 const tam = {
@@ -22,9 +32,7 @@ const tam = {
 };
 ```
 
----
-
-### ⚡ What I'm building
+## ⚡ What I'm building
 
 **5+ years** shipping full-stack products across backend, mobile, and AI pipelines.
 
@@ -32,35 +40,66 @@ const tam = {
 - 🧠 **Breakthrough** — multi-tenant Stripe billing on AWS ECS, AI media indexing with Gemini-reranked vector search, an ElevenLabs + Vertex AI smart-search pipeline, and a Next.js paywall powering 60+ brands from one codebase
 - 📱 **PixelApps / Pingolearn** — Clean Architecture Flutter, AI language app @ 700k+ users
 
-### 🛠️ Stack
+## 🛠️ Tech Arsenal
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+<div align="center">
 
-### 🚀 Open Source
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+
+</div>
+
+## 🚀 Open Source
 
 - **[pglens](https://github.com/tsvillain/pglens)** — PostgreSQL viewer: browse tables, explore schemas, spotlight search. One-liner install, lightweight daemon.
 - **[Wallbay](https://github.com/tsvillain/Wallbay)** — Flutter wallpaper app · 114+ ⭐ · live on Google Play
 - **[MinifyURL](https://github.com/tsvillain/MinifyURL)** — URL shortener backend with a custom farmhash-based algorithm
 
-### 📈 Stats
+## 📊 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsvillain&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsvillain&theme=tokyonight&hide_border=true" height="165" />
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tsvillain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tsvillain&theme=tokyonight&hide_border=true" />
+</div>
 
-<p align="center"><i>Currently breaking down 243 applied-AI terms for backend devs, one byte at a time. 🧠</i></p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsvillain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tsvillain&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
+
+<!-- CONTRIBUTION SNAKE -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsvillain&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+## 🧠 One byte at a time
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <em>Currently breaking down 243 applied-AI terms for backend devs — one byte at a time.</em>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
