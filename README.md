@@ -1,7 +1,7 @@
 <!-- TYPING ANIMATION HERO -->
 <div align="center">
   <a href="https://x.com/tsvillain">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2600&pause=800&color=36BCF7&center=true&vCenter=true&width=760&height=70&lines=Hey%2C+I'm+Tam+%F0%9F%91%8B;Senior+Software+Engineer+%C2%B7+India+%F0%9F%87%AE%F0%9F%87%B3;Helping+farmers+manage+farms+at+scale+%F0%9F%8C%BE;Backend+%E2%9A%A1+Mobile+%F0%9F%93%B1+AI+Pipelines+%F0%9F%A7%A0;It's+easier+to+hack+a+system+you+wrote+yourself." alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2600&pause=800&color=36BCF7&center=true&vCenter=true&width=760&height=70&lines=Hey%2C+I'm+Tam+%F0%9F%91%8B;Senior+Software+Engineer+%C2%B7+India+%F0%9F%87%AE%F0%9F%87%B3;Helping+farmers+manage+farms+at+scale+%F0%9F%8C%BE;Backend+%E2%9A%A1+Mobile+%F0%9F%93%B1+AI+Pipelines+%F0%9F%A7%A0;." alt="typing" />
   </a>
 </div>
 
