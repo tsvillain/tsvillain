@@ -10,6 +10,9 @@
   <a href="https://x.com/tsvillain"><img src="https://img.shields.io/badge/%F0%9D%95%8F-%40tsvillain-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://linkedin.com/in/tsvillain"><img src="https://img.shields.io/badge/LinkedIn-tsvillain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://tsvillain.medium.com"><img src="https://img.shields.io/badge/Medium-tsvillain-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <br/><br/>
+  <img src="https://img.shields.io/github/followers/tsvillain?style=for-the-badge&logo=github&color=36BCF7&labelColor=0f2027" />
+  <img src="https://img.shields.io/github/stars/tsvillain?style=for-the-badge&logo=github&color=f39c12&labelColor=0f2027" />
 </div>
 
 <br/>
@@ -61,15 +64,10 @@ const tam = {
 - **[Wallbay](https://github.com/tsvillain/Wallbay)** — Flutter wallpaper app · 114+ ⭐ · live on Google Play
 - **[MinifyURL](https://github.com/tsvillain/MinifyURL)** — URL shortener backend with a custom farmhash-based algorithm
 
-## 📊 Stats
+## 📊 Streak
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tsvillain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tsvillain&theme=tokyonight&hide_border=true" alt="streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsvillain&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsvillain&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
 <div align="center">
